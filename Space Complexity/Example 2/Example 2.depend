@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615908226 source:/home/mahmudul/Data Structure and Algorithm/Space Complexity/Example 2/main.c
+	<stdio.h>
+	<stdlib.h>
+

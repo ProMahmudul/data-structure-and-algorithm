@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615805746 source:/home/mahmudul/Data Structure and Algorithm/Time Complexity/Example 3/main.c
+	<stdio.h>
+	<stdlib.h>
+
